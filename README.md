@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksander</h1>
-<h3 align="center">A passionate Front-end developer from Albania</h3>
+<h3 align="center">A passionate Front-end developer. Originally from Albania, living in Germany for two years.</h3>
 
 - 💻 Check out my portfolio **[aleksander-gjinollari.com](https://aleksander-gjinollari.com/)** .
 
