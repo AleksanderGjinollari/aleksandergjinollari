@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aleksander</h1>
 <h3 align="center">A passionate Front-end developer from Albania</h3>
 
+- 💻 Check out my portfolio **aleksander-gjinollari.com
+
 - 📫 How to reach me? -Here: **AleksanderGjinollari@hotmail.com**
 
 - ⚡ Fun fact **I speak 4 languages**
