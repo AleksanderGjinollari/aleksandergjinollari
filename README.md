@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-end developer. <br>
   Originally from Albania, living in Germany for the last two years.</h3>
 
-- 💻 Check out my portfolio **[aleksander-gjinollari.com](https://aleksander-gjinollari.com/)** .
+- 💻 Check out my portfolio: **[aleksander-gjinollari.com](https://aleksander-gjinollari.com/)** .
 
 - 📫 How to reach me? -Here: **AleksanderGjinollari@hotmail.com**
 
